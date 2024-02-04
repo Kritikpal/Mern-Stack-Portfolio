@@ -10,6 +10,12 @@ Welcome to my portfolio frontend! This project showcases my skills and projects 
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
+- [Folder Structure](#folder-structure)
+- [Configuration](#configuration)
+- [Scripts](#scripts)
+- [Deployment](#deployment)
+- [Testing](#testing)
+- [Linting](#linting)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
@@ -48,3 +54,56 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/Kritikpal/Mern-Stack-Portfolio
    ```
+
+### Folder Structure
+
+Create react app Folder structure
+
+### Configuration
+
+Provide information on any configuration settings or environment variables.
+
+### Scripts
+
+List and explain the npm scripts available in your project.
+
+### Deployment
+
+Instructions on how to deploy your frontend app.
+
+### Testing
+
+Explain how to run tests and any testing frameworks used.
+
+### Linting
+
+Information about linting tools and configuration.
+
+### Usage
+
+Start the development server:
+
+```bash
+Copy code
+npm start
+```
+
+Visit http://localhost:3000 to view your portfolio.
+
+### Screenshots
+
+[Include screenshots or GIFs showcasing different sections of your portfolio app.]
+
+### Contributing
+
+If you'd like to contribute, please follow the contribution guidelines.
+
+### License
+
+This project is licensed under the MIT License.
+
+### Acknowledgments
+
+```
+Special thanks to React and Styled-components for making this project visually appealing and interactive.
+```
