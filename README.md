@@ -92,7 +92,10 @@ Visit http://localhost:3000 to view your portfolio.
 
 ### Screenshots
 
-[Include screenshots or GIFs showcasing different sections of your portfolio app.]
+Home
+![Home Page](https://github.com/Kritikpal/Mern-Stack-Portfolio/blob/master/public/screenshots/contact.png)
+Footer
+![Footer](https://github.com/Kritikpal/Mern-Stack-Portfolio/blob/master/public/screenshots/footer.png)
 
 ### Contributing
 
