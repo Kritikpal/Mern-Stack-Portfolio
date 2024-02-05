@@ -82,9 +82,9 @@ Information about linting tools and configuration.
 ### Usage
 
 Start the development server:
+Copy code
 
 ```bash
-Copy code
 npm start
 ```
 
