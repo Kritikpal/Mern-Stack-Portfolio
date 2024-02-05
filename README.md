@@ -93,9 +93,13 @@ Visit http://localhost:3000 to view your portfolio.
 ### Screenshots
 
 Home
-![Home Page](https://github.com/Kritikpal/Mern-Stack-Portfolio/blob/master/public/screenshots/contact.png)
+![Home Page](https://github.com/Kritikpal/Mern-Stack-Portfolio/blob/master/public/screenshots/home.png)
 Footer
 ![Footer](https://github.com/Kritikpal/Mern-Stack-Portfolio/blob/master/public/screenshots/footer.png)
+
+Contact Page
+
+![Contact Page](https://github.com/Kritikpal/Mern-Stack-Portfolio/blob/master/public/screenshots/contact.png)
 
 ### Contributing
 
